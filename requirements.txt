@@ -1,0 +1,8 @@
+pandas==0.25.3
+numpy==1.18.1
+requests==2.22.0
+datetime2==0.7.5
+csv==1.0
+json5==0.8.5
+json262==0.2.0
+simplejson==3.17.0
