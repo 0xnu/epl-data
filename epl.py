@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+#
 # Endpoint: https://fantasy.premierleague.com/api/bootstrap-static/
 # Gameweek Data: https://fantasy.premierleague.com/api/event/5/live/
 

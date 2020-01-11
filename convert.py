@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 import csv , json
 
 csvFilePath = "2020-01-11_epl_players.csv"
