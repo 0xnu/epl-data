@@ -3,8 +3,8 @@
 
 import csv , json
 
-csvFilePath = "2020-01-11_epl_players.csv"
-jsonFilePath = "2020-01-11_epl_players.json"
+csvFilePath = "2020-01-14_epl_players.csv"
+jsonFilePath = "2020-01-14_epl_players.json"
 arr = []
 
 with open (csvFilePath) as csvFile:
