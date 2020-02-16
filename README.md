@@ -1,4 +1,5 @@
 # EPL Data [![Build Status](https://travis-ci.org/0xnu/epl-data.svg?branch=master)](https://travis-ci.org/0xnu/nba-data) [![Coverage Status](https://coveralls.io/repos/github/0xnu/epl-data/badge.svg?branch=master)](https://coveralls.io/github/0xnu/epl-data?branch=master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2F0xnu%2Fepl-data.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2F0xnu%2Fepl-data?ref=badge_shield)
 
 Scrape fantasy.premierleague.com for English Premier League data.
 
@@ -19,3 +20,6 @@ chmod +x run.sh && ./run.sh
 ## Got issues or questions?
 
 :sunglasses: :wave: [Email Me](mailto:oketunjifinbarrs@gmail.com)
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2F0xnu%2Fepl-data.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2F0xnu%2Fepl-data?ref=badge_large)
